@@ -1,0 +1,20 @@
+# Arquivos de configuração
+*.ini
+*.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+
+# Arquivos gerados pelo ambiente virtual
+venv/
+
+# Arquivos de dependências
+lib/
+lib64/
+
+# Arquivos de texto
+*.txt
