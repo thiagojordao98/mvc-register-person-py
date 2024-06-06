@@ -1,4 +1,4 @@
-# README: Sistema para Registro de Pessoas usando padrão MVC
+# Sistema para Registro de Pessoas usando padrão MVC
 
 Este projeto é um sistema simples de registro de pessoas, implementado em Python. Ele consiste em duas partes principais: um modelo de dados `Pessoa` e um controlador `PessoaController`.
 
